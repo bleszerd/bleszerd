@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Platform, Kotlin, Mobile development**
 
-- 👨‍💻 All of my projects are available at [github.com/bleszerd/repositories](github.com/bleszerd/repositories)
+- 👨‍💻 All of my projects are available at [github.com/bleszerd/repositories](https://github.com/bleszerd?tab=repositories)
 
 - 💬 Ask me about **Android, Kotlin, Java, Mobile and Web development**
 
