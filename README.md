@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleszerd&label=Profile%20views&color=0e75b6&style=flat" alt="bleszerd" /> </p>
 
-- 🌱 I’m currently learning **Android Platform, Kotlin, Mobile development**
+- 🌱 I’m currently learning **Android Platform, Kotlin and Mobile development**
 
 - 👨‍💻 All of my projects are available at [github.com/bleszerd/repositories](https://github.com/bleszerd?tab=repositories)
 
